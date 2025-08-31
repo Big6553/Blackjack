@@ -1,2 +1,3 @@
-# Blackjack
-GAMBLING
+# GAMBLING
+Blackjack
+Slot Machines
